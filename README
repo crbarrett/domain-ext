@@ -1,0 +1,11 @@
+Abstract:
+Extensions and common classes for domain oriented programming.
+
+Design:
+Intended to provide generic/abstract/common support for DDD programming.
+
+Testing:
+None.
+
+Future:
+Anything simple that I need to meet some DDD reuseability.
